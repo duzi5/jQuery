@@ -1,21 +1,20 @@
-
-  
+ 
+ 
+ 
     $(document).ready( () => {
-        console.log($('#exemplo'))
+        $('img').attr('border', 5); 
+        $('img').attr('width', 800); 
+        
+
         
         
+        
+        
+        
+        
+        
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+     
     
     
     
